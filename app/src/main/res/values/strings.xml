@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DBAndroidChiefApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_string">Hello in DBChifApp</string>
+    <string name="signin_string">Sign In</string>
+    <string name="quit_string">Quit</string>
+</resources>
