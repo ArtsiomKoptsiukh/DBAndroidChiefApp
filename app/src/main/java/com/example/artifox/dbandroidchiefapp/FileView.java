@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class file_view extends ActionBarActivity {
+public class FileView extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
